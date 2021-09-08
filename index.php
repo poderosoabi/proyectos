@@ -1,1 +1,1 @@
-<?php require 'login.php';?>
+<?php require_once 'login.php';?>
