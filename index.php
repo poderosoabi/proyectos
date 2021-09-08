@@ -1,1 +1,1 @@
-require 'login.php';
+<?php require 'login.php';?>
