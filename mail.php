@@ -1,7 +1,7 @@
 <?php
 $paracorreo="";
 $titulo ="test correo";
-$mensaje=" puto";
+$mensaje="si funciona";
 $tucorreo="from :abimaton@gmail.com";
 
 if(mail('sierraignacio87@gmail.com', $titulo,$mensaje,$tucorreo))
